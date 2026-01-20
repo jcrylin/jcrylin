@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 Hello! My name is Jennifer Lin and I am an analyst and statistician from the USA. This GitHub Repository contains past work for jobs and projects that can be shared with the public.
 
